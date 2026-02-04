@@ -1,3 +1,5 @@
+Live url of the project - https://re-connect-six.vercel.app/
+
 RE:Connect is an AI-powered real estate opportunity intelligence system rather than a presentation tool. The platform is designed to help agents to find the best investment opportunity for a client.
 
 The System Includes
